@@ -2,7 +2,8 @@
 Support material for Vibration Analysis and Isolation classes
 
 ## contenido I
-el pendulo siple
+the simple pendulum  
 
 ## contenido II
-Analisis de movimiento
+analysis of motion
+
